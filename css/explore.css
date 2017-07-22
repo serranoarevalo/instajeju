@@ -37,6 +37,10 @@
   margin-bottom: 5px;
 }
 
+.users__name .users__username i {
+  color: #3897f0;
+}
+
 .users__name .users__full-name {
   color: #999;
 }
