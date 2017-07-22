@@ -135,3 +135,7 @@ a {
   text-decoration: none;
   color: inherit;
 }
+
+input {
+  box-sizing: border-box;
+}
